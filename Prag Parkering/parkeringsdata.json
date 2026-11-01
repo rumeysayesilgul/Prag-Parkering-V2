@@ -1,0 +1,29 @@
+[
+  {
+    "Nummer": 1,
+    "Storlek": 1,
+    "ParkeradeFordon": [
+      {
+        "$fordonstyp": "MC",
+        "Registreringsnummer": "MC001",
+        "Ankomsttid": "2026-10-27T08:00:00"
+      },
+      {
+        "$fordonstyp": "MC",
+        "Registreringsnummer": "MC002",
+        "Ankomsttid": "2026-10-27T08:10:00"
+      }
+    ]
+  },
+  {
+    "Nummer": 2,
+    "Storlek": 1,
+    "ParkeradeFordon": [
+      {
+        "$fordonstyp": "Bil",
+        "Registreringsnummer": "BIL001",
+        "Ankomsttid": "2026-10-27T08:20:00"
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+# Timpriser i CZK per påbörjad timme.
+# Skriv fordonstyp=timpris.
+# Använd punkt för decimaler, exempelvis 20.50.
+
+Bil=20
+MC=10

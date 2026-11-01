@@ -1,0 +1,13 @@
+{
+  "AntalParkeringsplatser": 100,
+  "Fordonstyper": [
+    {
+      "Namn": "Bil",
+      "AntalFordonPerPlats": 1
+    },
+    {
+      "Namn": "MC",
+      "AntalFordonPerPlats": 2
+    }
+  ]
+}

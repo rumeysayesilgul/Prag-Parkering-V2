@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="Prag Parkering/Prag Parkering.csproj" />
+  <Project Path="PragParkering.Filhantering/PragParkering.Filhantering.csproj" />
+  <Project Path="PragParkering.Tester/PragParkering.Tester.csproj" />
+</Solution>
